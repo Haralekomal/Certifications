@@ -1,6 +1,7 @@
 # Certifications
 Data Analyst 
 Institution: Newton School
+                     
 Date Issued: January 2024
 
 Description:
